@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.footer{
+    background: rgb(71, 13, 33) !important;
+    background: linear-gradient(90deg, rgba(71,13,33,1) 0%, rgba(156,15,72,1) 100%);
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+}
+
+.footer_container{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer h3{
+    font-family: 'Pacifico', cursive;
+}
+.footer p:hover{
+    background-color: #F9E4D4 !important;
+    color: #F9E4D4 !important;
+}
+
+.images_footer{
+    border-radius: 100%;
+    
+}
