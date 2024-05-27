@@ -34,7 +34,7 @@ const Footer = () => {
         </p>
 
         <p className='me-4 images_footer' title='Instagram'>
-          <Link to="https://www.instagram.com/that________cupidgirl">
+          <Link target=" " to="https://www.instagram.com/that________cupidgirl">
             <BsInstagram color='black' size={30} />
           </Link>
         </p>
