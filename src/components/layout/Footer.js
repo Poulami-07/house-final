@@ -22,19 +22,19 @@ const Footer = () => {
         height={60}
         width={80}
         className='mx-3' />
-        Aparannha Roy
+        Poulami Gandhi
       </h3>
-      <h6>All Right Reserved &copy; APARANNHA - 2023</h6>
+      <h6>All Right Reserved &copy; POULAMI - 2024</h6>
       <div className='d-flex flex-row p-2'>
 
       <p className='me-4 images_footer' title='Github'>
-          <Link to="https://github.com/aparannha123">
+          <Link to="https://github.com/Poulami-07">
             <BsGithub color='black' size={30} />
           </Link>
         </p>
 
         <p className='me-4 images_footer' title='Instagram'>
-          <Link to="https://instagram.com/aparannha_roy?igshid=MzNlNGNkZWQ4Mg==">
+          <Link to="https://www.instagram.com/that________cupidgirl">
             <BsInstagram color='black' size={30} />
           </Link>
         </p>
